@@ -6,7 +6,7 @@
 ## 🌱 Currently Learning
 - Supabase
 - React Native
-- 
+  
 ## 🔭 Current Work
 - Building a cross-platform application
 - Contributing to open-source Flutter packages

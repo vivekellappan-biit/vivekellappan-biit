@@ -3,9 +3,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekellappan/)
 
+## 🌱 Currently Learning
+- Supabase
+- React Native
+- 
 ## 🔭 Current Work
 - Building a cross-platform application
 - Contributing to open-source Flutter packages
+
 
 ## 💻 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)

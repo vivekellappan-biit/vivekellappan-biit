@@ -5,7 +5,7 @@
 
 ## 🌱 Currently Learning
 - Supabase
-- React Native
+- Jetpack Compose
   
 ## 🔭 Current Work
 - Building a cross-platform application

@@ -5,6 +5,7 @@
 
 ## 🌱 Currently Learning
 - Supabase
+- React Native
 - Jetpack Compose
   
 ## 🔭 Current Work
